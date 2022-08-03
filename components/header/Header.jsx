@@ -2,7 +2,6 @@ import React, { useRef, useEffect } from "react";
 import { Container } from "reactstrap";
 import classes from "./header.module.css";
 import Link from "next/link";
-import { faWindows } from "@fortawesome/free-brands-svg-icons";
 
 const NAV__LINK = [
   {
