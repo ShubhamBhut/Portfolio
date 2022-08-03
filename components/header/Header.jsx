@@ -88,13 +88,13 @@ const Header = () => {
                   {" "}
                 <Link href="https://github.com/ShubhamBhut">
                   <span>
-                    <i class="ri-github-fill"></i>
+                    <i className="ri-github-fill"></i>
                   </span>
                 </Link>
                 {/* <Link href='#'><span><i class="ri-facebook-line"></i></span></Link> */}
                 <Link href="https://www.linkedin.com/in/shubham-patel-039789214/">
                   <span>
-                    <i class="ri-linkedin-line"></i>
+                    <i className="ri-linkedin-line"></i>
                   </span>
                 </Link>
                 </p>
