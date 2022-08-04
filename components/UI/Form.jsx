@@ -19,7 +19,7 @@ const Form = () => {
    }
 
 
-  return <form action='https://getform.io/f/8c255216-0909-44c2-800f-6d95dc18390a' className={`${classes.form}`} method='POST' onSubmit={handleOnSubmit}>
+  return <form action='https://getform.io/f/8c255216-0909-44c2-800f-6d95dc18390a' className={`${classes.form}`} method='POST'>
    <div className={`${classes.form__group}`}>
       <input type='text' name='name' placeholder='Your Name' required />
    </div>
