@@ -3,22 +3,6 @@ import classes from '../../styles/form.module.css'
 
 const Form = () => {
 
-   async function handleOnSubmit(e) {
-      e.preventDefault();
-      const formData = {}
-      Array.from(e.currentTarget.elements).forEach(field =>{
-         if( !field.name ) return;
-         formData[field.name] = field.value;
-      });
-      fetch('/api/mail', {
-         method: "post",
-         body: JSON.stringify(formData)
-      })
-
-      console.log(formData)
-   }
-
-
   return <form action='https://getform.io/f/8c255216-0909-44c2-800f-6d95dc18390a' className={`${classes.form}`} method='POST'>
    <div className={`${classes.form__group}`}>
       <input type='text' name='name' placeholder='Your Name' required />
