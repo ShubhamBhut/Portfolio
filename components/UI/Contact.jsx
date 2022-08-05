@@ -27,12 +27,14 @@ const Contact = () => {
                <span><i className="ri-phone-line"></i></span>
                <p>+918128087586</p>
             </li>
+            
          </ul>
 
          <div className={`${classes.social__links}`}>
             <Link href='https://github.com/ShubhamBhut'><span><i className="ri-github-fill"></i></span></Link>
             {/* <Link href='#'><span><i class="ri-facebook-line"></i></span></Link> */}
             <Link href='https://www.linkedin.com/in/shubham-patel-039789214/'><span><i className="ri-linkedin-line"></i></span></Link>
+            <Link href="https://www.flaticon.com/free-icons/shapes-and-symbols"><span><i className="ri-github-fill"></i></span></Link>
          </div>
         </Col> 
 
