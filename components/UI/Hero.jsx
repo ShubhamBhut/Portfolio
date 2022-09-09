@@ -15,14 +15,14 @@ const Hero = () => {
                <div className={`${classes.hero__content}`}>
                   <SectionSubtitle subtitle='Hello' />
                   <h2 className='mt-3 mb-3'>I&apos;m Shubham Patel</h2>
-                  <h5 className='mb-4'>Data-Science Enthusiast</h5>
-                  <p>I am a Deep Learning and Data Analytics Enthusiast with particular interest on solving finance related problems through data-driven insights and Deep Learning.</p>
+                  <h5 className='mb-4'>Data-Science and Deep Learning</h5>
+                  <p>I am a Deep Learning and Data Science Enthusiast with particular interest on solving finance related problems through data-driven insights and Deep Learning.</p>
                   <p>I am also planning to learn Web-3, AWS and Smart-contracts.</p>
 
                   <div className='mt-5'>
                      {/* <button className="primary__btn"><Link href='#'>Hire me</Link></button> */}
 
-                     <button className="secondary__btn"><Link href='https://drive.google.com/file/d/17vmgMm5bC3ib5p2Kq-A--TFVP1Fe6IjS/view?usp=sharing'>Download CV</Link></button>
+                     <button className="primary__btn"><Link href='https://drive.google.com/file/d/17vmgMm5bC3ib5p2Kq-A--TFVP1Fe6IjS/view?usp=sharing'>Checkout My CV</Link></button>
 
                   </div>
                </div>

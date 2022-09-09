@@ -10,15 +10,15 @@ const portfolio = [
 
   {
     id: "02",
-    title: "Handwritten digit recognition",
-    img: "/images/hdr1.png",
+    title: "Credit-card risk prediction",
+    img: "/images/credit_card.png",
     category: "AI & Data Science",
-    keyword: ["Deep Learning", "Classification", "MNIST"],
-    liveUrl: "https://github.com/ShubhamBhut/Hand-written-Digit-recognition",
+    keyword: ["XGBoost", "Classification", "Finance"],
+    liveUrl: "https://github.com/ShubhamBhut/Credit-card-Risk-prediction",
   },
 
   {
-    id: "04",
+    id: "03",
     title: "Project Insight",
     img: "/images/insight22.jpg",
     category: "AI & Data Science",
@@ -27,7 +27,16 @@ const portfolio = [
   },
 
   {
-    id: "03",
+    id: "04",
+    title: "Handwritten digit recognition",
+    img: "/images/hdr1.png",
+    category: "AI & Data Science",
+    keyword: ["Deep Learning", "Classification", "MNIST"],
+    liveUrl: "https://github.com/ShubhamBhut/Hand-written-Digit-recognition",
+  },
+
+  {
+    id: "05",
     title: "Object Detection",
     img: "/images/obj1.jpg",
     category: "AI & Data Science",
@@ -36,7 +45,7 @@ const portfolio = [
   },
 
   {
-    id: "05",
+    id: "06",
     title: "Furniture Shopping App",
     img: "/images/portfolio-05.jpg",
     category: "Web",
@@ -45,7 +54,7 @@ const portfolio = [
   },
 
   {
-    id: "06",
+    id: "07",
     title: "Travel  App",
     img: "/images/portfolio-06.jpg",
     category: "Web",
@@ -54,7 +63,7 @@ const portfolio = [
   },
 
   {
-    id: "07",
+    id: "08",
     title: "Portfolio Website",
     img: "/images/portfolio-07.png",
     category: "Miscellaneous",
@@ -63,7 +72,7 @@ const portfolio = [
   },
 
   {
-    id: "08",
+    id: "10",
     title: "Restaurant Website",
     img: "/images/portfolio-08.png",
     category: "Web",
