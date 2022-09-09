@@ -11,7 +11,7 @@ const portfolio = [
   {
     id: "02",
     title: "Credit-card risk prediction",
-    img: "/images/credit_card.png",
+    img: "/images/credit-card.png",
     category: "AI & Data Science",
     keyword: ["XGBoost", "Classification", "Finance"],
     liveUrl: "https://github.com/ShubhamBhut/Credit-card-Risk-prediction",
