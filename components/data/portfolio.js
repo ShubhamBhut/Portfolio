@@ -20,7 +20,7 @@ const portfolio = [
   {
     id: "03",
     title: "Project Insight",
-    img: "/images/insight22.jpg",
+    img: "/images/insight22.png",
     category: "AI & Data Science",
     keyword: ["Analytics", "Seaborn", "History"],
     liveUrl: "https://github.com/ShubhamBhut/Project-Insight",
