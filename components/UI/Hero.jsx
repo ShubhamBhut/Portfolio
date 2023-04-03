@@ -22,7 +22,7 @@ const Hero = () => {
                   <div className='mt-5'>
                      {/* <button className="primary__btn"><Link href='#'>Hire me</Link></button> */}
 
-                     <button className="primary__btn"><Link href='https://drive.google.com/file/d/1GYe9EndMr-aE7MjTYD2OM-54pEZUhb8n/view?usp=sharing'>Checkout My CV</Link></button>
+                     <button className="primary__btn"><Link href='https://drive.google.com/file/d/1OLik7hub1JJZfSE1_iR-4jNkQLndmpEr/view?usp=sharing'>Checkout My CV</Link></button>
 
                   </div>
                </div>
