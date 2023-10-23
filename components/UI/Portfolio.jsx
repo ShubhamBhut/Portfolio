@@ -53,6 +53,8 @@ const Portfolio = () => {
             <Col lg='6' md='6'>
                <div className={`${classes.tab__btns} text-end`}>
                   <button className={`${filter === "AI & Data Science"? active : ''} secondary__btn text-white`} onClick={()=>setFilter("AI & Data Science")}>AI and Data Science</button>
+                  <button className={`${filter === "Rust"? active : ''} secondary__btn text-white`} onClick={()=>setFilter("Rust")}>Rust</button>
+                  <button className={`${filter === "Blockchain"? active : ''} secondary__btn text-white`} onClick={()=>setFilter("Blockchain")}>Blockchain Dev.</button>
                   <button className={`${filter === 'Miscellaneous'? active : ''} secondary__btn text-white`} onClick={()=>setFilter('Miscellaneous')}>Miscellaneous</button>
                </div>
             </Col>

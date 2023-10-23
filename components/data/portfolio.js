@@ -2,7 +2,7 @@ const portfolio = [
   {
     id: "01",
     title: "RBM based Generative model",
-    img: "/images/translator.jpg",
+    img: "/images/rbm1.png",
     category: "AI & Data Science",
     keyword: ["Deep-Learning", "Generative AI", "RBM"],
     liveUrl: "https://github.com/ShubhamBhut/Generative-RBM-model",
@@ -11,7 +11,7 @@ const portfolio = [
   {
     id: "02",
     title: "Bidirectional Fr-En translator based on t5",
-    img: "/images/credit.png",
+    img: "/images/translator.jpg",
     category: "AI & Data Science",
     keyword: ["LLM", "RNN", "Deep learning"],
     liveUrl: "https://github.com/ShubhamBhut/translator",
