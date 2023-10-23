@@ -1,37 +1,38 @@
 const portfolio = [
   {
     id: "01",
-    title: "Generative AI",
-    img: "/images/rbm1.png",
+    title: "RBM based Generative model",
+    img: "/images/translator.jpg",
     category: "AI & Data Science",
-    keyword: ["Deep-Learning", "Generative AI", "RBMs"],
+    keyword: ["Deep-Learning", "Generative AI", "RBM"],
     liveUrl: "https://github.com/ShubhamBhut/Generative-RBM-model",
   },
 
   {
     id: "02",
-    title: "Credit-card risk prediction",
+    title: "Bidirectional Fr-En translator based on t5",
     img: "/images/credit.png",
     category: "AI & Data Science",
-    keyword: ["XGBoost", "Classification", "Finance"],
-    liveUrl: "https://github.com/ShubhamBhut/Credit-card-Risk-prediction",
+    keyword: ["LLM", "RNN", "Deep learning"],
+    liveUrl: "https://github.com/ShubhamBhut/translator",
   },
 
   {
     id: "03",
-    title: "Project Insight",
-    img: "/images/insight22.png",
+    title: "RNN based chatbot",
+    img: "/images/chatbot.jpg",
     category: "AI & Data Science",
-    keyword: ["Analytics", "Seaborn", "History"],
-    liveUrl: "https://github.com/ShubhamBhut/Project-Insight",
+    keyword: ["RNN", "Chatbot"],
+    liveUrl: "https://github.com/ShubhamBhut/chatbot",
   },
+
 
   {
     id: "04",
     title: "Handwritten digit recognition",
     img: "/images/hdr1.png",
     category: "AI & Data Science",
-    keyword: ["Deep Learning", "Classification", "MNIST"],
+    keyword: ["Deep Learning", "Classification", "CNN"],
     liveUrl: "https://github.com/ShubhamBhut/Hand-written-Digit-recognition",
   },
 
@@ -46,24 +47,60 @@ const portfolio = [
 
   {
     id: "06",
-    title: "Furniture Shopping App",
-    img: "/images/portfolio-05.jpg",
-    category: "Web",
-    keyword: ["Mobile", "App", "UI-UX"],
-    liveUrl: "#",
+    title: "Credit-card risk prediction",
+    img: "/images/credit.png",
+    category: "AI & Data Science",
+    keyword: ["XGBoost", "Classification", "Finance"],
+    liveUrl: "https://github.com/ShubhamBhut/Credit-card-Risk-prediction",
   },
 
   {
     id: "07",
-    title: "Travel  App",
-    img: "/images/portfolio-06.jpg",
-    category: "Web",
-    keyword: ["Mobile", "App", "UI-UX"],
-    liveUrl: "#",
+    title: "Project Insight",
+    img: "/images/insight22.png",
+    category: "AI & Data Science",
+    keyword: ["Analytics", "Seaborn", "History"],
+    liveUrl: "https://github.com/ShubhamBhut/Project-Insight",
   },
 
   {
     id: "08",
+    title: "Bonds_rs",
+    img: "/images/bond.jpg",
+    category: "Rust",
+    keyword: ["Rust", "Finance"],
+    liveUrl: "https://github.com/ShubhamBhut/bonds_rs",
+  },
+
+  {
+    id: "09",
+    title: "Hermis Messenger",
+    img: "/images/chat.png",
+    category: "Rust",
+    keyword: ["Rust", "tokio"],
+    liveUrl: "https://github.com/ShubhamBhut/hermis-messenger",
+  },
+
+  {
+    id: "10",
+    title: "NFT Marketplace",
+    img: "/images/nft_market.png",
+    category: "Blockchain",
+    keyword: ["Solidity", "NFT", "Blockchain"],
+    liveUrl: "https://github.com/ShubhamBhut/nft_marketplace",
+  },
+
+  {
+    id: "11",
+    title: "Smartcontracts collection",
+    img: "/images/smart_contract.png",
+    category: "Blockchain",
+    keyword: ["Solidity", "Smart contracts", "Blockchain"],
+    liveUrl: "https://github.com/ShubhamBhut/blockchain-development",
+  },
+
+  {
+    id: "12",
     title: "Portfolio Website",
     img: "/images/portfolio-07.png",
     category: "Miscellaneous",
@@ -72,16 +109,7 @@ const portfolio = [
   },
 
   {
-    id: "10",
-    title: "Restaurant Website",
-    img: "/images/portfolio-08.png",
-    category: "Web",
-    keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
-  },
-
-  {
-    id: "09",
+    id: "13",
     title: "Voice Assistant",
     img: "/images/va1.jpg",
     category: "Miscellaneous",

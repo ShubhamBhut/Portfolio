@@ -20,6 +20,18 @@ const Portfolio = () => {
          setData(filteredData)
       }
 
+      if(filter === "Rust"){
+         const filteredData = portfolioData.filter(item =>item.category === filter)
+
+         setData(filteredData)
+      }
+
+      if(filter === "Blockchain"){
+         const filteredData = portfolioData.filter(item =>item.category === filter)
+
+         setData(filteredData)
+      }
+
       if(filter === 'Miscellaneous'){
          const filteredData = portfolioData.filter(item =>item.category === filter)
 
