@@ -15,9 +15,9 @@ const Hero = () => {
                <div className={`${classes.hero__content}`}>
                   <SectionSubtitle subtitle='Hello' />
                   <h2 className='mt-3 mb-3'>I&apos;m Shubham Patel</h2>
-                  <h5 className='mb-4'>Data-Science and Deep Learning</h5>
-                  <p>I am a Deep Learning and Data Science Enthusiast with particular interest on solving finance related problems through data-driven insights and Deep Learning.</p>
-                  <p>I am also planning to learn Web-3, AWS and Smart-contracts.</p>
+                  <h5 className='mb-4'>Deep Learning, Blockchain and Rust developer</h5>
+                  <p>I am a Deep Learning, Blockchain and Rust enthusiast with particular interest on solving finance related problems through data-driven insights and Deep Learning.</p>
+                  <p>Currently I am learning Generative models and improving my Rust.</p>
 
                   <div className='mt-5'>
                      {/* <button className="primary__btn"><Link href='#'>Hire me</Link></button> */}
