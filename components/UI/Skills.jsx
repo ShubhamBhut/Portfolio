@@ -24,7 +24,7 @@ const Skills = () => {
             <SectionSubtitle subtitle='What I do' />
             {/* <h3 className="mb-0 mt-4">Artificial Neural Networks</h3> */}
             {/* <h3 className="mb-4">Data Science</h3> */}
-            <p>I analyze large datsets to derive insights. I also build Neural Networks to solve problems. Sometimes I do these things just to explore and learn more. My skills include data analysis, visualization, and Deep Learning.</p>
+            <p>I am deeply immersed in the world of data analysis, processing, and, above all, Deep Learning. My expertise lies in deriving meaningful insights from vast datasets and harnessing the capabilities of Neural Networks to solve intricate problems. I constantly improve my knowledge in this rapidly changing world of Data Science and Deep learning.</p>
             <p>My work in blockchain involves analyzing and processing large datasets, as well as building decentralized applications and smart contracts.</p>
             <p>I mostly use Rust for system development projects and blockchain development. I am planning to do finiancial modelling and develop trading strategies with it in the future.</p>
           </Col>

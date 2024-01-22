@@ -17,12 +17,12 @@ const Hero = () => {
                   <h2 className='mt-3 mb-3'>I&apos;m Shubham Patel</h2>
                   <h5 className='mb-4'>Deep Learning, Blockchain and Rust developer</h5>
                   <p>I am a Deep Learning, Blockchain and Rust enthusiast with particular interest on solving finance related problems through data-driven insights and Deep Learning.</p>
-                  <p>Currently I am learning Generative models and improving my Rust.</p>
+                  <p>Currently I am learning Graph networks and improving my Rust.</p>
 
                   <div className='mt-5'>
                      {/* <button className="primary__btn"><Link href='#'>Hire me</Link></button> */}
 
-                     <button className="primary__btn"><Link href='https://drive.google.com/file/d/1OLik7hub1JJZfSE1_iR-4jNkQLndmpEr/view?usp=sharing'>Checkout My CV</Link></button>
+                     <button className="primary__btn"><Link href='https://drive.google.com/file/d/1XgIJLVKnYRowmm0RTtbkL_iOy8S4Ty74/view?usp=sharing'>Checkout My CV</Link></button>
 
                   </div>
                </div>

@@ -17,10 +17,9 @@ const About = () => {
         <Row>
           <Col lg="6" className={`${classes.about__content}`}>
             <SectionSubtitle subtitle="About me" />
-            <h3 className="mt-4">I&apos;m here</h3>
-            <h3 className="mb-4">to solve real world problems.</h3>
+            <h3 className="mt-4">Data Alchemist and Deep learning Maestro</h3>
             <p>
-            A few interesting things about me. I love to read science fiction (my favorite is The Mysterious Island by Jules Verne). I am also passionate about history and finance. I love to play competitive strategy games. Lastly, I love learning. Every day I push myself to learn something new, whether that be about machine learning, software engineering, or miscellaneous facts about the universe. Some of my Soft-skills - 
+            A few interesting things about me. I love to read science fiction (my favorite is The Mysterious Island by Jules Verne). I am also passionate about history and finance. In free time (if I ever get) I play competitive strategy games and Skyrim. Lastly, I love learning. Every day I push myself to learn something new, whether that be about machine learning, software engineering, or miscellaneous facts about the universe. Some of my Soft-skills - 
             </p>
 
             <div className="d-flex align-items-centre gap-5">
